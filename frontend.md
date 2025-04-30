@@ -41,6 +41,10 @@ export default App;
    - `api.js`
 6. Create an environment variable file `.env` in the frontend root
 
+![image](https://github.com/user-attachments/assets/8750d23d-bb9b-40b8-acad-fe66b2654684)
+
+
+
 ## Task 3: Configuration Files
 
 1. In constants.js, add:
