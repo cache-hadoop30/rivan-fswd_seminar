@@ -3,13 +3,13 @@
 ## Task 1: Project Setup
 
 ```bash
-npm create vite@latest frontend 
+npm create vite@latest frontend -- --template react
 # Choose react
 # Choose javascript
 cd frontend
 npm install 
 npm run dev
-npm install axios react react-dom jwt-decode
+npm install axios react-router-dom jwt-decode
 ```
 
 ## Task 2: Project Structure Setup
